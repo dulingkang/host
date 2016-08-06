@@ -1,6 +1,6 @@
 # Copyright (c) 2015-2016, shawn.
 # https://github.com/dulingkang/host
-# Last updated: 2016-08-02
+# Last updated: 2016-08-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -430,6 +430,7 @@ fe80::1%lo0	localhost
 220.255.2.153	goto.google.com
 220.255.2.153	gxc.google.com
 220.255.2.153	history.google.com
+220.255.2.153	myactivity.google.com
 220.255.2.153	investor.google.com
 220.255.2.153	jmt0.google.com
 220.255.2.153	keep.google.com
@@ -3799,7 +3800,7 @@ fe80::1%lo0	localhost
 #TensorFlow end
 
 # W3schools Start
-68.232.44.251	w3schools.com
+66.29.212.110	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
 
