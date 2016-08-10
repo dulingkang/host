@@ -1,6 +1,6 @@
 ## google host
 最新可用的host文件路径：
-[https://github.com/dulingkang/host/blob/master/hosts](https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts)
+[https://github.com/dulingkang/host/blob/master/hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
 ## Windows
 用文本编辑器（如 Notepad++）打开文件：
 C:\Windows\System32\drivers\etc\hosts
