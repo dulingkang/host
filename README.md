@@ -16,10 +16,15 @@ C:\Windows\System32\drivers\etc\hosts
 - Linux 和 Mac OS
 将 hosts 全部内容复制到/etc/hosts中并保存。
 
-## 微信公众号
+### 微信公众号
 
-![开发者思维 devthinking](http://upload-images.jianshu.io/upload_images/844885-6ede66cdf2a3c46e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<div align=center>
+<img src="http://upload-images.jianshu.io/upload_images/844885-6ede66cdf2a3c46e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="180" height="180" alt="开发者思维 devthinking"/>
+</div>
 
-## QQ交流群：295976280
+### QQ交流群：295976280
 
-![iOS交流群（一）群二维码.png](http://upload-images.jianshu.io/upload_images/844885-0b4506f56fb77b47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<div align=center>
+<img src="http://upload-images.jianshu.io/upload_images/844885-0b4506f56fb77b47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="180" height="220" alt="iOS交流群（一）群二维码"/>
+</div>
+
