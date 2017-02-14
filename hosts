@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-02-03
+# Last updated: 2017-02-11
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -159,6 +159,7 @@
 157.240.0.17	m.facebook.com
 157.240.0.17	mqtt.facebook.com
 157.240.0.17	mqtt-mini.facebook.com
+157.240.0.17	mtouch.facebook.com
 157.240.0.17	business.facebook.com
 157.240.0.17	s-static.ak.facebook.com
 23.76.153.42	static.ak.facebook.com
@@ -240,6 +241,7 @@
 199.201.64.67	threatexchange.fb.com
 157.240.7.21	video.xx.fbcdn.net
 184.28.188.10	fbcdn-sphotos-b-a.akamaihd.net
+184.28.188.10	fb-s-d-a.akamaihd.net
 184.28.188.10	vthumb.ak.fbcdn.net
 184.28.188.10	photos-a.ak.fbcdn.net
 184.28.188.10	photos-b.ak.fbcdn.net
@@ -321,6 +323,16 @@
 61.91.161.217	fit.google.com
 61.91.161.217	fiber.google.com
 61.91.161.217	fonts.google.com
+61.91.161.217	firebase.google.com
+61.91.161.217	console.firebase.google.com
+61.91.161.217	mobilesdk-pa.clients6.google.com
+61.91.161.217	cloudusersettings-pa.clients6.google.com
+61.91.161.217	firebasestorage.clients6.google.com
+61.91.161.217	firebaserules.clients6.google.com
+61.91.161.217	firebasedurablelinks-pa.clients6.google.com
+61.91.161.217	cloudconfig.clients6.google.com
+61.91.161.217	gcmcontextualcampaign-pa.clients6.google.com
+61.91.161.217	mobilecrashreporting.clients6.google.com
 61.91.161.217	goto.google.com
 61.91.161.217	gxc.google.com
 61.91.161.217	get.google.com
@@ -507,6 +519,8 @@
 61.91.161.217	googleforstudents.blogspot.com
 61.91.161.217	students.googleblog.com
 61.91.161.217	chrome.blogspot.com
+61.91.161.217	googleadservices.com
+61.91.161.217	www.googleadservices.com
 61.91.161.217	google-latlong.blogspot.com
 61.91.161.217	insidesearch.blogspot.com
 61.91.161.217	googleadsdeveloper.blogspot.com
@@ -589,6 +603,8 @@
 61.91.161.217	directory.google.com
 61.91.161.217	dir.google.com
 61.91.161.217	events.google.com
+61.91.161.217	savethedate.foo
+61.91.161.217	www.savethedate.foo
 61.91.161.217	googledrive.com
 61.91.161.217	docs.google.com
 61.91.161.217	drive.google.com
@@ -819,6 +835,7 @@
 61.91.161.217	studykit.google.com
 61.91.161.217	business.google.com
 61.91.161.217	google-analytics.com
+61.91.161.217	www.googletagmanager.com
 61.91.161.217	artsandculture.google.com
 
 # gstatic Start
@@ -3069,6 +3086,77 @@
 52.72.26.162	help.issuu.com
 # issuu End
 
+# Line Start
+104.121.240.61	scdn.line-apps.com
+104.70.135.244	scdn.line-apps.com
+104.74.169.189	w.line.me
+104.98.19.185	scdn.line-apps.com
+104.98.19.185	scdn.line-apps.com
+125.209.210.239	lcp-checkout.line.me
+125.209.222.202	gd2w.line.naver.jp
+125.209.222.202	gd2w.line.naver.jp
+125.209.222.202	gd2w.line.naver.jp
+125.209.222.202	gww.line.naver.jp
+125.209.222.59	gd2k.line.naver.jp
+125.209.222.59	gd2w.line.naver.jp
+125.209.222.59	gww.line.naver.jp
+125.209.222.59	gwx.line.naver.jp
+125.209.238.181	obs-cn.line-apps.com
+125.209.238.181	obs.line-apps.com
+125.209.238.186	xcdn-cn-prf.line-apps.com
+125.209.238.186	xcdn-cn-shp.line-apps.com
+125.209.238.186	xcdn-cn-stk.line-apps.com
+125.209.238.186	xcdn-cn-stk.line-apps.com
+125.209.238.209	obs-cn.line-apps.com
+125.209.238.209	obs-cn.line-apps.com
+125.209.238.209	obs.line-apps.com
+125.209.248.6	xcdn-cn-prf.line-apps.com
+125.209.252.17	gd2g.line.naver.jp
+125.209.252.18	gd2i.line.naver.jp
+125.209.252.41	gwx.line.naver.jp
+125.209.252.42	gwx.line.naver.jp
+125.209.252.43	gwx.line.naver.jp
+125.209.252.44	gwx.line.naver.jp
+203.104.138.138	line.me
+203.104.142.52	lan.line.me
+203.104.150.2	gd2.line.naver.jp
+203.104.150.2	gw.line.naver.jp
+203.104.150.3	gwx.line.naver.jp
+203.104.150.4	obs-tw.line-apps.com
+203.104.153.1	gd2.line.naver.jp
+203.104.153.1	gw.line.naver.jp
+203.104.153.129	gd2.line.naver.jp
+203.104.153.129	gd2.line.naver.jp
+203.104.153.129	gw.line.naver.jp
+203.104.153.130	gwx.line.naver.jp
+203.104.153.135	obs-tw.line-apps.com
+203.104.153.2	gwx.line.naver.jp
+203.104.153.7	obs-tw.line-apps.com
+203.104.160.11	gd2u.line.naver.jp
+203.104.160.31	gwx.line.naver.jp
+203.104.160.32	gwx.line.naver.jp
+203.104.174.12	gd2s.line.naver.jp
+203.104.174.13	gd2v.line.naver.jp
+203.104.174.14	gwx.line.naver.jp
+203.104.174.15	gwx.line.naver.jp
+203.104.174.16	gwx.line.naver.jp
+203.104.174.17	gwx.line.naver.jp
+203.104.174.18	gwx.line.naver.jp
+23.0.130.177	w.line.me
+23.2.27.60	scdn.line-apps.com
+23.205.217.59	scdn.line-apps.com
+23.205.217.59	scdn.line-apps.com
+23.215.103.24	dl.profile.line.naver.jp
+23.215.103.40	dl.stickershop.line.naver.jp
+23.219.132.153	scdn.line-apps.com
+23.32.5.48	lan.line.me
+23.32.5.48	scdn.line-apps.com
+23.57.196.158	scdn.line-apps.com
+23.57.244.158	scdn.line-apps.com
+23.63.22.24	scdn.line-apps.com
+69.192.179.250	scdn.line-apps.com
+# Line End
+
 # Logmein Start
 74.201.74.193	secure.logmein.com
 # Logmein End
@@ -3273,38 +3361,38 @@
 # Tumblr End
 
 # Twitter Start
-104.244.45.1	twitter.com
-104.244.45.1	www.twitter.com
+104.244.45.129	twitter.com
+104.244.45.129	www.twitter.com
 185.45.5.47	t.co
-104.244.45.1	api.twitter.com
-104.244.45.1	mobile.twitter.com
-104.244.45.1	support.twitter.com
-104.244.45.1	upload.twitter.com
-104.244.45.1	tweetdeck.twitter.com
-104.244.45.1	syndication.twitter.com
-104.244.45.1	platform.twitter.com
-104.244.45.1	about.twitter.com
-104.244.45.1	blog.twitter.com
-104.244.45.1	betastream.twitter.com
-104.244.45.1	dev.twitter.com
-104.244.45.1	pic.twitter.com
-104.244.45.1	search.twitter.com
-104.244.45.1	status.twitter.com
-104.244.45.1	assets0.twitter.com
-104.244.45.1	assets1.twitter.com
-104.244.45.1	assets2.twitter.com
-104.244.45.1	assets3.twitter.com
-104.244.45.1	assets4.twitter.com
-104.244.45.1	static.twitter.com
-104.244.45.1	help.twitter.com
-104.244.45.1	ton.twitter.com
-104.244.45.1	s.twitter.com
-104.244.45.1	analytics.twitter.com
-104.244.45.1	urls-real.api.twitter.com
-104.244.45.1	userstream.twitter.com
-104.244.45.1	sitestream.twitter.com
-104.244.45.1	stream.twitter.com
-104.244.45.1	tdweb.twitter.com
+104.244.45.129	api.twitter.com
+104.244.45.129	mobile.twitter.com
+104.244.45.129	support.twitter.com
+104.244.45.129	upload.twitter.com
+104.244.45.129	tweetdeck.twitter.com
+104.244.45.129	syndication.twitter.com
+104.244.45.129	platform.twitter.com
+104.244.45.129	about.twitter.com
+104.244.45.129	blog.twitter.com
+104.244.45.129	betastream.twitter.com
+104.244.45.129	dev.twitter.com
+104.244.45.129	pic.twitter.com
+104.244.45.129	search.twitter.com
+104.244.45.129	status.twitter.com
+104.244.45.129	assets0.twitter.com
+104.244.45.129	assets1.twitter.com
+104.244.45.129	assets2.twitter.com
+104.244.45.129	assets3.twitter.com
+104.244.45.129	assets4.twitter.com
+104.244.45.129	static.twitter.com
+104.244.45.129	help.twitter.com
+104.244.45.129	ton.twitter.com
+104.244.45.129	s.twitter.com
+104.244.45.129	analytics.twitter.com
+104.244.45.129	urls-real.api.twitter.com
+104.244.45.129	userstream.twitter.com
+104.244.45.129	sitestream.twitter.com
+104.244.45.129	stream.twitter.com
+104.244.45.129	tdweb.twitter.com
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 173.236.110.98	web1.twitpic.com
@@ -3317,24 +3405,24 @@
 173.236.110.98	web7.twitpic.com
 173.236.110.98	web8.twitpic.com
 173.236.110.98	web9.twitpic.com
-104.244.43.3	a0.twimg.com
-104.244.43.3	a1.twimg.com
-104.244.43.3	a2.twimg.com
-104.244.43.3	a3.twimg.com
-104.244.43.3	a4.twimg.com
-104.244.43.3	a5.twimg.com
-104.244.43.3	video.twimg.com
-104.244.43.3	abs.twimg.com
-104.244.43.3	g.twimg.com
-104.244.43.3	o.twimg.com
-104.244.43.3	p.twimg.com
-104.244.43.3	r.twimg.com
-104.244.43.3	ma.twimg.com
-104.244.43.3	pbs.twimg.com
-104.244.43.3	ton.twimg.com
-104.244.43.3	syndication.twimg.com
-104.244.43.3	syndication-o.twimg.com
-104.244.43.3	image-proxy-origin.twimg.com
+104.244.43.7	a0.twimg.com
+104.244.43.7	a1.twimg.com
+104.244.43.7	a2.twimg.com
+104.244.43.7	a3.twimg.com
+104.244.43.7	a4.twimg.com
+104.244.43.7	a5.twimg.com
+104.244.43.7	video.twimg.com
+104.244.43.7	abs.twimg.com
+104.244.43.7	g.twimg.com
+104.244.43.7	o.twimg.com
+104.244.43.7	p.twimg.com
+104.244.43.7	r.twimg.com
+104.244.43.7	ma.twimg.com
+104.244.43.7	pbs.twimg.com
+104.244.43.7	ton.twimg.com
+104.244.43.7	syndication.twimg.com
+104.244.43.7	syndication-o.twimg.com
+104.244.43.7	image-proxy-origin.twimg.com
 104.244.42.196	tweetdeck.com
 104.244.42.196	api.tweetdeck.com
 104.244.42.196	web.tweetdeck.com
@@ -3342,16 +3430,16 @@
 104.244.42.196	downloads.tweetdeck.com
 104.244.43.17	cdn.syndication.twimg.com
 104.244.43.40	cdn.syndication.twitter.com
-104.244.45.1	apps.twitter.com
-104.244.45.1	debates.twitter.com
+104.244.45.129	apps.twitter.com
+104.244.45.129	debates.twitter.com
 # Twitter End
 
 # Vimeo Start
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
 104.156.85.217	player.vimeo.com
-103.245.224.143	i.vimeocdn.com
-103.245.224.143	f.vimeocdn.com
+151.101.73.133	i.vimeocdn.com
+151.101.73.133	f.vimeocdn.com
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
 # Vimeo End
